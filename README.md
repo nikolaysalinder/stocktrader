@@ -1,6 +1,6 @@
-# vue-cli
+# stocktrader
 
-> A Vue.js project
+> Platform for traders, created with Vue.js with vuex.
 
 ## Build Setup
 
